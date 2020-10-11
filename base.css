@@ -1,0 +1,26 @@
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  /* align-items: center; centralizar*/ 
+  background-color: rgb(21, 32, 43);
+  font-family: sans-serif;
+}
+
+
+#main{
+  background-color: lightcoral;
+  border-radius: 5rem
+}
+.main-color{
+  color:coral;
+}
+
+.div{
+  align-self: center;
+}
+
+main{
+  align-self:center;
+}
